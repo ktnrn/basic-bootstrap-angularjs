@@ -1,2 +1,8 @@
-#Test{}
- 
+.chart3 rect{
+    fill : steelblue;
+}
+.chart3 text{
+    fill: white;
+    text-anchor : middle;
+    font: 10px sans-sarif;
+}
